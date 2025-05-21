@@ -259,10 +259,6 @@ Hostinger provides a range of KVM VPS plans focusing on ease of use and performa
     - Bandwidth: 32 TB
     - Price: Approx. **$29.99 - $39.99/month** (promotional price, renews higher e.g., ~$59.99/month)
 
-<a href="https://afftrend.com/hostinger"> 
-<img src="https://drive.google.com/uc?export=view&id=1FoP9E8ObxUoX_OFhvRvBbO3lZ2orFR34" alt="Try Now"> 
-</a>
-
 Comparison:
 
 Contabo generally offers significantly more vCPU cores and RAM at comparable or even lower price points than Hostinger's standard KVM plans. Hostinger's pricing often includes features like automated backups and a more user-friendly management panel (hPanel with AI assistant), which might justify the difference for some users. Always check current pricing and renewal rates. Contabo's traffic allowances are also notably higher.
