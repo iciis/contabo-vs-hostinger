@@ -52,7 +52,7 @@ Contabo’s product line includes a wide range of scalable VPS (Virtual Private 
 ### **Hostinger Overview**
 
 <a href="https://afftrend.com/hostinger">
-  <img src="https://drive.google.com/uc?export=view&id=13oQ94xDvcyt7NOjraT5GHa31YLDemWLO" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=13oQ94xDvcyt7NOjraT5GHa31YLDemWLO" width="800px" alt="Hostinger Homepage">
 </a>
 
 Hostinger is a globally recognized web hosting provider that combines **affordability, speed, and user-friendly tools** to cater to both beginners and experienced web developers. Founded in 2004, Hostinger has grown to serve over **29 million users across 178 countries**, making it one of the fastest-growing hosting companies worldwide.
